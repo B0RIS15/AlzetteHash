@@ -38,5 +38,5 @@ rez = Alzette(x, y, c)
 print(rez)
 x = rez[0]
 y = rez[1]
-print("===============")
-print(Alzette_inv(x, y, c))
+rez = Alzette_inv(x, y, c)
+print(rez)
