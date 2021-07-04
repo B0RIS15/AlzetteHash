@@ -38,10 +38,5 @@ rez = Alzette(x, y, c)
 print(rez)
 x = rez[0]
 y = rez[1]
-<<<<<<< HEAD
-rez = Alzette_inv
-print(rez)
-=======
 rez = Alzette_inv(x, y, c)
 print(rez)
->>>>>>> eed06252f2def25f6f8942a456e2c87adc5df4b3
