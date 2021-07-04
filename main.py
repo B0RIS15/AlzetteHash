@@ -38,5 +38,6 @@ rez = Alzette(x, y, c)
 print(rez)
 x = rez[0]
 y = rez[1]
-rez = Alzette_inv
+rez = Alzette_inv(x, y, c)
 print(rez)
+
